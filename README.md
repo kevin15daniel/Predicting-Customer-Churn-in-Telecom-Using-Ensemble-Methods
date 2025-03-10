@@ -78,4 +78,4 @@ This will return the predicted churn status for the given input data.
 
 ## Conclusion
 
-This **Predicting Customer Churn in Telecom Using Ensemble Methods** is a powerful tool for analyzing customer churn in the telecommunications industry. It’s accurate, robust, and can be easily integrated into various applications where predicting customer churn is required.
+This **Predicting Customer Churn in Telecom Using Ensemble Methods** is a powerful tool for analyzing customer churn in the telecommunications industry. It's accurate, robust, and can be easily integrated into various applications where predicting customer churn is required.
