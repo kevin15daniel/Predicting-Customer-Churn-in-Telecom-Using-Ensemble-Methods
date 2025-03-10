@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents a machine learning model designed to predict customer churn in the telecommunications industry. The model leverages various classification algorithms to analyze customer data and predict whether a customer is likely to churn. The model has been trained and evaluated on a comprehensive dataset, achieving high accuracy and robust performance.
+This project presents a machine learning model designed to predict customer churn in the telecommunications industry. The model leverages various classification algorithms to analyze customer data and predict whether a customer is likely to churn. It has been trained and evaluated on a comprehensive dataset, achieving high accuracy and robust performance.
 
 ## Model Details
 
@@ -11,15 +11,15 @@ This project presents a machine learning model designed to predict customer chur
   - **Accuracy**: 79.89%
   - **ROC AUC Mean**: 84.79%
 
-The model was trained on a dataset containing various customer attributes and their churn status, making it a reliable choice for predicting customer churn in the telecommunications sector.
+The model was trained on a dataset containing various customer attributes and their churn status, making it a reliable tool for predicting customer churn in the telecommunications sector.
 
 ## Intended Use
 
-This model is designed to predict customer churn based on their profile and usage patterns. You can use it for applications like:
+This model is designed to predict customer churn based on their profiles and usage patterns. It can be used for applications such as:
 - Customer retention strategies
 - Targeted marketing campaigns
 - Customer service improvements
-- Any other application where predicting customer churn is useful
+- Any other application where predicting customer churn is useful.
 
 ## Limitations
 
@@ -34,7 +34,7 @@ The model was trained using the following setup:
   - Data cleaning and preprocessing to handle missing values and encode categorical variables.
   - Feature scaling using StandardScaler.
 - **Model Training**:
-  - Multiple classifiers were trained and evaluated, including Logistic Regression, Support Vector Classifier, K-Nearest Neighbour, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest, AdaBoost, Gradient Boosting Classifier, and Voting Classifier.
+  - Multiple classifiers were trained and evaluated, including Logistic Regression, Support Vector Classifier, K-Nearest Neighbors, Gaussian Naive Bayes, Decision Tree Classifier, Random Forest, AdaBoost, Gradient Boosting Classifier, and Voting Classifier.
   - Hyperparameter tuning and cross-validation were performed to optimize model performance.
 - **Evaluation Metrics**:
   - Accuracy, Precision, Recall, F1 Score, and ROC AUC were used to evaluate model performance.
@@ -57,7 +57,7 @@ The model was trained using the following setup:
 
 ## Usage
 
-To use the model, you can load it with the following code:
+To use the model, load it with the following code:
 
 ```python
 import joblib
@@ -78,4 +78,4 @@ This will return the predicted churn status for the given input data.
 
 ## Conclusion
 
-This **Predicting Customer Churn in Telecom Using Ensemble Methods** is a powerful tool for analyzing customer churn in the telecommunications industry. It's accurate, robust, and can be easily integrated into various applications where predicting customer churn is required.
+This **Predicting Customer Churn in Telecom Using Ensemble Methods** is a powerful tool for analyzing customer churn in the telecommunications industry. It is accurate, robust, and can be easily integrated into various applications where predicting customer churn is necessary.
